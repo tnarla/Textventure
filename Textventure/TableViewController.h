@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  TableViewController.h
 //  Textventure
 //
 //  Created by Trushitha Narla on 5/24/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
-    
+@interface TableViewController : UITableViewController
+
 @end
